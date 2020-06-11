@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"launch": {
+		"configurations": [
+			{
+			"name": "Python: akshare",
+            "type": "python",
+            "request": "launch",
+            "program": "C:\\Users\\user\\Desktop\\QuoteCenter\\run.py",
+			"console": "integratedTerminal"
+			}
+		]
+	}
+}
